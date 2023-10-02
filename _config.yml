@@ -28,7 +28,7 @@ github_username:  jmadin
 scholar_id: ho3LuBUAAAAJ
 
 # Build settings
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
